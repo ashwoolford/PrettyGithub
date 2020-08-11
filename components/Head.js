@@ -4,8 +4,8 @@ import PropTypes from 'prop-types';
 
 const defaultTitle = 'OctoProfile';
 const defaultDescription = 'A nicer look at your GitHub profile. With charts!';
-const defaultOGURL = 'https://octoprofile.bchiang7.now.sh';
-const defaultOGImage = 'https://octoprofile.bchiang7.now.sh/static/og.png';
+const defaultOGURL = 'https://pretty-github.vercel.app/';
+const defaultOGImage = 'https://firebasestorage.googleapis.com/v0/b/bookmine-e4310.appspot.com/o/images%2FScreenshot%202020-08-11%20at%202.18.55%20AM.png?alt=media&token=e5c1b3de-466f-4662-8360-eb7c19947532';
 
 const Head = props => (
   <NextHead>
